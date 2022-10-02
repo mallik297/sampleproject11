@@ -20,4 +20,11 @@ public void sub()
 	int c=a-b;
 	System.out.println(c);
 }
+@Test
+public void mul()
+{
+	int a=8;
+	int b=a*a;
+	System.out.println(b);
+}
 }
